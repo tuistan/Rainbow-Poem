@@ -4,4 +4,5 @@ Purple
 Blue
 Pink 
 Orange 
+Green
 This is the color of my rainbow
