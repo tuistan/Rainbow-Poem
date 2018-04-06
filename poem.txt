@@ -5,4 +5,5 @@ Blue
 Pink 
 Orange 
 Green
+Yellow
 This is the color of my rainbow
